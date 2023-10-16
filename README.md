@@ -41,7 +41,7 @@ Run the main file
 
 ## Authors
 
-  - **[Goben Diego C.A.](https://github.com/PocketNugget).** - **Natalia Patricia M.V.** - **Erick S.Z.** -
+  - **[Goben Diego C.A.](https://github.com/PocketNugget).** - **Natalia Patricia M.V.** - **[Erick S.Z.](https://github.com/ericksolisz)** -
 
 ## License
 
